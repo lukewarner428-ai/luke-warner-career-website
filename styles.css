@@ -890,18 +890,9 @@ h2 {
   line-height: 1.5;
 }
 
-.testimonial-label {
-  margin: auto 0 12px;
-  padding-top: 26px;
-  color: var(--cobalt);
-  font-size: 0.76rem;
-  font-weight: 800;
-  line-height: 1;
-  text-transform: uppercase;
-}
-
 .testimonial-card blockquote {
-  margin: 0;
+  margin: auto 0 0;
+  padding-top: 26px;
   color: var(--navy);
   font-family: var(--serif);
   font-size: clamp(1.2rem, 1.8vw, 1.48rem);
